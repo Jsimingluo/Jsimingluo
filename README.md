@@ -31,6 +31,6 @@
 <br />
 
 ⌨️ **SQL Practice**
-- [Querying](https://github.com/Jsimingluo/SQL)
+- [Querying](https://github.com/Jsimingluo/SQL/tree/main/Querying)
 
 
