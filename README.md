@@ -33,7 +33,7 @@
 ⌨️ **SQL Practice**
 - [Querying](https://github.com/Jsimingluo/SQL/tree/main/Querying)
 
-👓**R Project**
+👓 **R Project**
 - [Gasoline Price Prediction](https://github.com/Jsimingluo/R)
 
 
