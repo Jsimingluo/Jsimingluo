@@ -25,8 +25,8 @@
 
 <br />
 
-💡**Tableau Projects**
-- **Digital Marketing Campaign Analysis**: [Click Here](https://public.tableau.com/views/DigitalMarketingAnalysis_16987948353460/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+💡**Data Visualization Projects**
+- **Digital Marketing Campaign Analysis (Tableau)**: [Click Here](https://public.tableau.com/views/DigitalMarketingAnalysis_16987948353460/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <br />
 
