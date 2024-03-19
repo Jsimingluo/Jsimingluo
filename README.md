@@ -6,7 +6,7 @@
 - 💻 I have a finance and customer analytics background and now I am a data scientist volunteer at a Non-Profit organization
 - 📉 I taught myself Google Ads and Google Analytics
 - 🤖 I have experience in Data Preprocessing, Data Analysis and Predictive Models
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simingluo816) 
+- 📫 How to reach me: simingluo816@gmail.com
 
 <br />
 
